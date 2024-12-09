@@ -45,4 +45,5 @@ if [[ $best_game -eq 0 || $guesses -lt $best_game ]]; then
 else
     $PSQL "UPDATE users SET games_played = games_played + 1 WHERE username = '$username'"
 fi
-#djcsdjdo
+#djcsdjd
+#hidjada
